@@ -3534,11 +3534,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marce\\Downloads\\ProjetoConsultaAPI\\src\\DevIO.Data\\DevIO.Data.csproj",
+      "projectUniqueName": "C:\\Users\\marce\\Source\\Repos\\OpenApiProject\\src\\DevIO.Data\\DevIO.Data.csproj",
       "projectName": "DevIO.Data",
-      "projectPath": "C:\\Users\\marce\\Downloads\\ProjetoConsultaAPI\\src\\DevIO.Data\\DevIO.Data.csproj",
+      "projectPath": "C:\\Users\\marce\\Source\\Repos\\OpenApiProject\\src\\DevIO.Data\\DevIO.Data.csproj",
       "packagesPath": "C:\\Users\\marce\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marce\\Downloads\\ProjetoConsultaAPI\\src\\DevIO.Data\\obj\\",
+      "outputPath": "C:\\Users\\marce\\Source\\Repos\\OpenApiProject\\src\\DevIO.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3558,8 +3558,8 @@
         "netcoreapp2.2": {
           "targetAlias": "netcoreapp2.2",
           "projectReferences": {
-            "C:\\Users\\marce\\Downloads\\ProjetoConsultaAPI\\src\\DevIO.Business\\DevIO.Business.csproj": {
-              "projectPath": "C:\\Users\\marce\\Downloads\\ProjetoConsultaAPI\\src\\DevIO.Business\\DevIO.Business.csproj"
+            "C:\\Users\\marce\\Source\\Repos\\OpenApiProject\\src\\DevIO.Business\\DevIO.Business.csproj": {
+              "projectPath": "C:\\Users\\marce\\Source\\Repos\\OpenApiProject\\src\\DevIO.Business\\DevIO.Business.csproj"
             }
           }
         }
