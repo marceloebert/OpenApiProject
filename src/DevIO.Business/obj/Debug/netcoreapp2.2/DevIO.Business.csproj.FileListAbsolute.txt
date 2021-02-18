@@ -7,3 +7,12 @@ C:\Users\marce\Downloads\ProjetoConsultaAPI\src\DevIO.Business\obj\Debug\netcore
 C:\Users\marce\Downloads\ProjetoConsultaAPI\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.dll
 C:\Users\marce\Downloads\ProjetoConsultaAPI\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.pdb
 C:\Users\marce\Downloads\ProjetoConsultaAPI\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.csprojAssemblyReference.cache
+C:\Users\marce\Source\Repos\OpenApiProject\src\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.deps.json
+C:\Users\marce\Source\Repos\OpenApiProject\src\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.dll
+C:\Users\marce\Source\Repos\OpenApiProject\src\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.pdb
+C:\Users\marce\Source\Repos\OpenApiProject\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.AssemblyInfoInputs.cache
+C:\Users\marce\Source\Repos\OpenApiProject\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.AssemblyInfo.cs
+C:\Users\marce\Source\Repos\OpenApiProject\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.csproj.CoreCompileInputs.cache
+C:\Users\marce\Source\Repos\OpenApiProject\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.dll
+C:\Users\marce\Source\Repos\OpenApiProject\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.pdb
+C:\Users\marce\Source\Repos\OpenApiProject\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.csprojAssemblyReference.cache
